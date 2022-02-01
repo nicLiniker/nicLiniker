@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nicLiniker
-- 👀 I’m interested in share my progress  
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nicLiniker/nicLiniker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+- 👋 Hi, I’m @nicLiniker<br>
+- 👀 I’m interested in share my progress<br>
+- 🌱 I’m currently learning Python<br>
+</body>
+</html>
