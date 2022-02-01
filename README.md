@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicLiniker
 - 👀 I’m interested in share my progress  
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
